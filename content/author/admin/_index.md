@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Candidate in Water Resources Engineering"
+role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Lund University", url = "http://www.tvrl.lth.se/english/" } ]
+organizations = [{ name = "Division of Water Resources Engineering", url = "http://www.tvrl.lth.se/english/" }, { name = "Lund University", url = "http://www.lu.se" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
