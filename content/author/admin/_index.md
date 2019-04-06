@@ -44,7 +44,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
+  course = "BSc in Environmental Engineering"
   institution = "Massachusetts Institute of Technology"
   year = 2008
 
