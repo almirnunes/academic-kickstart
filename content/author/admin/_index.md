@@ -33,20 +33,20 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Water Resources Engineering"
+#  institution = "Lund University"
+#  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "MSc in Water Resources"
   institution = "Massachusetts Institute of Technology"
-  year = 2009
+  year = 2015
 
 [[education.courses]]
   course = "BSc in Environmental Engineering"
   institution = "Massachusetts Institute of Technology"
-  year = 2008
+  year = 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
