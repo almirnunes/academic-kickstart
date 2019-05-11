@@ -45,7 +45,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "BSc in Environmental Engineering"
-  institution = "MFederal University of Alagoas"
+  institution = "Federal University of Alagoas"
   year = 2012
 
 # Social/Academic Networking
