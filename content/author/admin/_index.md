@@ -40,12 +40,12 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "MSc in Water Resources"
-  institution = "Massachusetts Institute of Technology"
+  institution = "Federal University of Alagoas"
   year = 2015
 
 [[education.courses]]
   course = "BSc in Environmental Engineering"
-  institution = "Massachusetts Institute of Technology"
+  institution = "MFederal University of Alagoas"
   year = 2012
 
 # Social/Academic Networking
