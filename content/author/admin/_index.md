@@ -73,6 +73,12 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://github.com/almirnunes"
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Almir_Nunes_De_Brito_Jr"
+ 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
