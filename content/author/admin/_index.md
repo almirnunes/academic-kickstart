@@ -37,7 +37,7 @@ user_groups = ["Researchers", "Visitors"]
 #[[education.courses]]
 #  course = "PhD in Water Resources Engineering"
 #  institution = "Lund University"
-#  year = current
+#  year = "current"
 
 [[education.courses]]
   course = "MSc in Water Resources"
