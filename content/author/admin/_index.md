@@ -37,7 +37,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Water Res. Engineering"
   institution = "Lund University"
-  year = "current"
+  year = "in progress"
 
 [[education.courses]]
   course = "MSc in Water Resources"
