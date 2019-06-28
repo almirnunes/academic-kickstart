@@ -23,9 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Hydrodynamic and Morphological Modeling",
+  "Coastal Inlets",
   "Coastal Lagoons",
-  "Tidal Inlets",
-  "Morphological and Hydrodynamic Modeling"
+ 
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -33,10 +34,10 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
-#  course = "PhD in Water Resources Engineering"
-#  institution = "Lund University"
-#  year = 2019
+[[education.courses]]
+  course = "PhD in Water Resources Engineering"
+  institution = "Lund University"
+  year = current
 
 [[education.courses]]
   course = "MSc in Water Resources"
