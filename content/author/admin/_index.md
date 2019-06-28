@@ -73,12 +73,6 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://github.com/almirnunes"
 
-[[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Almir_Nunes_De_Brito_Jr"
- 
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -88,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Ph.D student in Water Resources Engineering at the University of Lund under the supervision of Prof. Magnus Larson.
+I am a Ph.D student in Water Resources Engineering at the University of Lund under the supervision of [Prof. Magnus Larson](https://scholar.google.com/citations?user=f0vLUDsAAAAJ&hl=sv&oi=ao).
