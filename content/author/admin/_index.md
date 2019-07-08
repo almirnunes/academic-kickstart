@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Hydrodynamic and Morphological Modeling",
+  "Hydrodynamic and Morphological Modelling",
   "Coastal Inlets",
   "Coastal Lagoons",
  
