@@ -59,10 +59,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "mailto:almir.nunes@tvrl.lth.se"  # For a direct email link, use "mailto:almir.nunes@tvrl.lth.se".
 
-#[[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/almirnunes"
 
 [[social]]
   icon = "google-scholar"
