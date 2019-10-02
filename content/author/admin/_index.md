@@ -54,10 +54,10 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:almir.nunes@tvrl.lth.se"  # For a direct email link, use "mailto:almir.nunes@tvrl.lth.se".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "mailto:almir.nunes@tvrl.lth.se"  # For a direct email link, use "mailto:almir.nunes@tvrl.lth.se".
 
 [[social]]
   icon = "twitter"
@@ -88,6 +88,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-2817-0461"
+
+[[social]]
+  icon = "lattes"
+  icon_pack = "ai"
+  link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4202977U2"
 
 
 # Link to a PDF of your resume/CV from the About widget.
