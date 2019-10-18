@@ -23,8 +23,6 @@ date_format = "Jan 2006"
   Course VVRN40[[http://www.tvrl.lth.se/utbildning/courses/vvrn40/]]
   Handling the course's tutorial sections.
   Course coordinator: Prof. Magnus Larson.
-  
-
   """
 
 [[experience]]
