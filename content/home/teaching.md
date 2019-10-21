@@ -1,7 +1,6 @@
 +++
 widget = "experience"
 headless = true  # This file represents a page section.
-
 active = true
 weight = 20
 title = "Teaching"
