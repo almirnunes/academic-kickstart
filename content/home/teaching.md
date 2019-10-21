@@ -14,7 +14,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  Course [VVRN40](http://www.tvrl.lth.se/utbildning/courses/vvrn40/)
+  Course [VVRN40](http://www.tvrl.lth.se/utbildning/courses/vvrn40/).
   Handling the course's tutorial sections.
   Course coordinator: Prof. Magnus Larson.
   """
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  Course [VVRF10](http://www.tvrl.lth.se/utbildning/courses/vvrf10/)
+  Course [VVRF10](http://www.tvrl.lth.se/utbildning/courses/vvrf10/).
   Handling part of the course's tutorial sections.
   Course coordinator: Prof. Hossein Hashemi
   """
