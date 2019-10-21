@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Course [VVRF10](http://www.tvrl.lth.se/utbildning/courses/vvrf10/)
-  Handling the part of the course's tutorial sections.
+  Handling part of the course's tutorial sections.
   Course coordinator: Prof. Hossein Hashemi
   """
   
