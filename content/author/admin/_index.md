@@ -105,4 +105,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Ph.D student in Water Resources Engineering at the University of Lund working with [Prof. Magnus Larson](https://scholar.google.com/citations?user=f0vLUDsAAAAJ&hl=sv&oi=ao). 
+I am a Ph.D student in Water Resources Engineering at Lund University working with [Prof. Magnus Larson](https://scholar.google.com/citations?user=f0vLUDsAAAAJ&hl=sv&oi=ao). 
