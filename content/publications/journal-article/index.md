@@ -1,13 +1,14 @@
 ---
-title: "An example journal article"
+title: "Tidal exchange in a choked coastal lagoon: A study of Mundaú Lagoon in northeastern Brazil"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Carlos Ruberto Fragoso
+- Magnus Larson
+date: "2018-01-01T00:00:00Z"
+doi: "10.1016/j.rsma.2017.12.005"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +17,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Regional Studies in Marine Sciences, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Changes in the inlet morphology of choked coastal lagoons often restrict the water exchange with the sea, making them vulnerable to pollution events and eutrophication processes. In this study, the importance of tides for the water exchange was investigated in Mundaú Lagoon, which is a choked lagoon located in northeastern Brazil that has a very dynamic inlet and channel system. The analysis was carried out for critical scenarios during the dry season when the river flow to the lagoon decreases markedly. The concepts of integrated flushing time and spatially distributed residence time scales were applied using a Lagrangian particle tracking approach coupled with a hydrodynamic model. The flushing time of Mundaú Lagoon was estimated to be 12.6 days during neap tide and 5.7 days during spring tide, including a return flow factor. Employing an e-folding form, the corresponding value was calculated to be 64 and 54 days for particles allowed and not allowed to return to the lagoon, respectively. The spring tides were responsible for the most pronounced water exchange in the Mundaú Lagoon. Different particles release times displayed the effect of the initial tidal conditions on the flushing time; lower exchange times were estimated for releases during ebb tides and spring tides. The integrated estimation of the water exchange when imposing a scenario of most frequent wind conditions indicated a considerable delay caused by this forcing, increasing the flushing time up to 23 days. Another observed effect of the wind was a spatial redistribution of the tidal exchange in the lagoon into different zones with similar residence time.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this study, the importance of tides for the water exchange was investigated in Mundaú Lagoon, which is a choked lagoon located in northeastern Brazil that has a very dynamic inlet and channel system.
 
 tags:
-- Source Themes
+- Hydrodynamics
+- Particle tracking
+- Water Exchange
+- Tidal flow
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [****]()'
   focal_point: ""
   preview_only: false
 
