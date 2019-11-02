@@ -2,7 +2,7 @@
 widget = "experience"
 headless = true  # This file represents a page section.
 active = true
-weight = 20
+weight = 30
 title = "Teaching"
 date_format = "Jan 2006"
 
