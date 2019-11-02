@@ -16,7 +16,7 @@ role = "Ph.D. Candidate"
 organizations = [{ name = "Division of Water Resources Engineering", url = "http://www.tvrl.lth.se/english/" }, { name = "Lund University", url = "http://www.lu.se" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
