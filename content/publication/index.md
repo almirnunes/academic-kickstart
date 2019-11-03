@@ -1,7 +1,7 @@
 ---
 title: "Tidal exchange in a choked coastal lagoon: A study of Mundaú Lagoon in northeastern Brazil"
 authors:
-- admin
+- Almir Nunes
 - Carlos Ruberto Fragoso
 - Magnus Larson
 date: "2018-01-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Regional Studies in Marine Sciences, 1*(1)"
+publication: "*Regional Studies in Marine Sciences"
 publication_short: ""
 
 abstract: Changes in the inlet morphology of choked coastal lagoons often restrict the water exchange with the sea, making them vulnerable to pollution events and eutrophication processes. In this study, the importance of tides for the water exchange was investigated in Mundaú Lagoon, which is a choked lagoon located in northeastern Brazil that has a very dynamic inlet and channel system. The analysis was carried out for critical scenarios during the dry season when the river flow to the lagoon decreases markedly. The concepts of integrated flushing time and spatially distributed residence time scales were applied using a Lagrangian particle tracking approach coupled with a hydrodynamic model. The flushing time of Mundaú Lagoon was estimated to be 12.6 days during neap tide and 5.7 days during spring tide, including a return flow factor. Employing an e-folding form, the corresponding value was calculated to be 64 and 54 days for particles allowed and not allowed to return to the lagoon, respectively. The spring tides were responsible for the most pronounced water exchange in the Mundaú Lagoon. Different particles release times displayed the effect of the initial tidal conditions on the flushing time; lower exchange times were estimated for releases during ebb tides and spring tides. The integrated estimation of the water exchange when imposing a scenario of most frequent wind conditions indicated a considerable delay caused by this forcing, increasing the flushing time up to 23 days. Another observed effect of the wind was a spatial redistribution of the tidal exchange in the lagoon into different zones with similar residence time.
@@ -66,16 +66,16 @@ projects: []
 slides: example
 ---
 ---
-title: "Tidal exchange in a choked coastal lagoon: A study of Mundaú Lagoon in northeastern Brazil"
+title: "Semi-analytic model of tidal-induced inlet flow and morphological evolution."
 authors:
-- admin
-- Carlos Ruberto Fragoso
 - Magnus Larson
-date: "2018-01-01T00:00:00Z"
-doi: "10.1016/j.rsma.2017.12.005"
+- Almir Nunes
+- Hitoshi Tanaka
+date: "2020-01-01T00:00:00Z"
+doi: "10.1016/j.coastaleng.2019.103581"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2019-10-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -84,19 +84,21 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Regional Studies in Marine Sciences, 1*(1)"
+publication: "*Coastal Engineering"
 publication_short: ""
 
-abstract: Changes in the inlet morphology of choked coastal lagoons often restrict the water exchange with the sea, making them vulnerable to pollution events and eutrophication processes. In this study, the importance of tides for the water exchange was investigated in Mundaú Lagoon, which is a choked lagoon located in northeastern Brazil that has a very dynamic inlet and channel system. The analysis was carried out for critical scenarios during the dry season when the river flow to the lagoon decreases markedly. The concepts of integrated flushing time and spatially distributed residence time scales were applied using a Lagrangian particle tracking approach coupled with a hydrodynamic model. The flushing time of Mundaú Lagoon was estimated to be 12.6 days during neap tide and 5.7 days during spring tide, including a return flow factor. Employing an e-folding form, the corresponding value was calculated to be 64 and 54 days for particles allowed and not allowed to return to the lagoon, respectively. The spring tides were responsible for the most pronounced water exchange in the Mundaú Lagoon. Different particles release times displayed the effect of the initial tidal conditions on the flushing time; lower exchange times were estimated for releases during ebb tides and spring tides. The integrated estimation of the water exchange when imposing a scenario of most frequent wind conditions indicated a considerable delay caused by this forcing, increasing the flushing time up to 23 days. Another observed effect of the wind was a spatial redistribution of the tidal exchange in the lagoon into different zones with similar residence time.
+abstract: A semi-analytic model is developed to describe the flow through an inlet between a lagoon and the sea due to a simple tide and the related morphological response of the inlet. The governing equation for the water level variation in the lagoon is derived from the continuity and momentum equations and then solved for quasi-steady conditions yielding analytic expression for the main flow-related properties such as lagoon amplitude, maximum and mean inlet velocity, tidal prism, and retention time. These quantities are expressed in non-dimensional form, where the repletion coefficient is the main independent variable. A sediment balance model is formulated for the inlet that relates changes in the inlet cross-sectional area to the difference between the longshore sediment transport and the transport through the inlet because of the tidal motion. This balance equation can be solved to yield the conditions at equilibrium as well as the evolution towards equilibrium or closure. The semi-analytic model is employed in the balance equation allowing for a close coupling between inlet hydraulics and morphology. Investigation of inlet equilibrium revealed, similarly to the Escoffier curve, two equilibrium situations, one corresponding to stable conditions and one to unstable conditions. The leading parameters in the stability analysis are the repletion coefficient and the longshore transport rate normalized with a fictive inlet transport rate.
 
 # Summary. An optional shortened abstract.
-summary: In this study, the importance of tides for the water exchange was investigated in Mundaú Lagoon, which is a choked lagoon located in northeastern Brazil that has a very dynamic inlet and channel system.
+summary: A semi-analytic model is developed to describe the flow through an inlet between a lagoon and the sea due to a simple tide and the related morphological response of the inlet.
 
 tags:
-- Hydrodynamics
-- Particle tracking
-- Water Exchange
-- Tidal flow
+- Keulegan model
+- Analytic solution
+- Equilibrium cross-sectional area
+- Inlet stability
+- Inlet area evolution
+
 featured: true
 
 # links:
