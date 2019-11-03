@@ -1,5 +1,5 @@
 ---
-title: "Semi-analytic model of tidal-induced inlet flow and morphological evolution."
+title: "Semi-analytic model of tidal-induced inlet flow and morphological evolution"
 authors:
 - Magnus Larson
 - Almir Nunes
