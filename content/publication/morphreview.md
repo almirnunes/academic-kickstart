@@ -4,7 +4,7 @@ authors:
 - Almir Nunes
 - Magnus Larson
 - Carlos Ruberto Fragoso Jr.
-date: ""
+date: "2019-11-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
