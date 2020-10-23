@@ -32,4 +32,17 @@ date_format = "Jan 2006"
   Course coordinator: Prof. Hossein Hashemi
   """
   
+[[experience]]
+  title = "Coastal Hydraulics"
+  company = "Lund University"
+  company_url = ""
+  location = ""
+  date_start = "2020-11-02"
+  date_end = "2019-11-09"
+  description = """
+  Course [VVRN30](http://www.tvrl.lth.se/utbildning/courses/vvrn30/).
+  A total of 4 lectures about Waves (Linear Wave Theory, generation and transformation, statistics..)
+  Course coordinator: Prof. Hans Hanson
+  """
+  
 +++
