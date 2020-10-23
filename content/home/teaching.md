@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2019-11-09"
   description = """
   Course [VVRN30](http://www.tvrl.lth.se/utbildning/courses/vvrn30/).
-  A total of 4 lectures about Waves (Linear Wave Theory, generation and transformation, statistics..)
+  A total of 4 lectures about Waves (Linear Wave Theory, generation, transformation, statistics..)
   Course coordinator: Prof. Hans Hanson
   """
   
