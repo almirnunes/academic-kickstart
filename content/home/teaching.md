@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2020-11-02"
-  date_end = "2019-11-09"
+  date_end = "2020-11-09"
   description = """
   Course [VVRN30](http://www.tvrl.lth.se/utbildning/courses/vvrn30/).
   A total of 4 lectures about Waves (Linear Wave Theory, generation, transformation, statistics..).
