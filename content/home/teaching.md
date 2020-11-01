@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-09"
   description = """
   Course [VVRN30](http://www.tvrl.lth.se/utbildning/courses/vvrn30/).
-  A total of 4 lectures about Waves (Linear Wave Theory, generation, transformation, statistics..).
+  A total of 4 lectures about Waves ([L](http://homepages.cae.wisc.edu/~chinwu/Coastal_Java/)inear Wave Theory, generation, transformation, statistics..).
   Course coordinator: Prof. Hans Hanson
   """
   
