@@ -33,7 +33,7 @@ tags:
 - Salinity dynamics
 - Ecological modeling
 - Choked coastal lagoons
-- Mundaú Lagoon
+- Mundau Lagoon
 
 featured: true
 
