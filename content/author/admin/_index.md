@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Researcher"
+role = "Postdoc"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "Division of Water Resources Engineering", url = "http://www.tvrl.lth.se/english/" }, { name = "Lund University", url = "http://www.lu.se" } ]
+organizations = [{ name = "Department of Coastal Systems", url = "https://www.nioz.nl/en/about/cos" }, { name = "NIOZ", url = "http://www.nioz.nl" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -23,11 +23,12 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Benthic–pelagic coupling",
+  "Ecological Modelling",
   "Hydrodynamic and Morphological Modelling",
   "Coastal Inlets",
   "Sediment transport",
   "Coastal Lagoons",
- 
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -58,7 +59,7 @@ user_groups = ["Researchers", "Visitors"]
 #[[social]]
 #  icon = "envelope"
 #  icon_pack = "fas"
-#  link = "mailto:almir.nunes@tvrl.lth.se"  # For a direct email link, use "mailto:almir.nunes@tvrl.lth.se".
+#  link = "mailto:almir.nunes@nioz.nl"  # For a direct email link, use "mailto:almir.nunes@nioz.nl".
 
 [[social]]
   icon = "twitter"
