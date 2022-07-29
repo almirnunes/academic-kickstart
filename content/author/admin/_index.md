@@ -92,6 +92,11 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://orcid.org/0000-0002-2817-0461"
 
 [[social]]
+  icon = "publons"
+  icon_pack = "ai"
+  link = "https://publons.com/wos-op/researcher/3136233/almir-nunes-de-brito-jr/"
+
+[[social]]
   icon = "lattes"
   icon_pack = "ai"
   link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4202977U2"
