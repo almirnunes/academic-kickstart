@@ -14,7 +14,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2020-10-08"
   description = """
-  Course [VVRN40](http://www.tvrl.lth.se/utbildning/courses/vvrn40/).
+  Course [VVRN40](https://kurser.lth.se/kursplaner/17_18-en/VVRN40.pdf).
   Handling the course's tutorial sections.
   Course coordinator: Prof. Magnus Larson.
   """
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2019-11-01"
   description = """
-  Course [VVRF10](http://www.tvrl.lth.se/utbildning/courses/vvrf10/).
+  Course [VVRF10](https://kurser.lth.se/kursplaner/17_18-en/VVRF10.pdf).
   Handling the course's tutorial sections.
   Course coordinator: Prof. Hossein Hashemi
   """
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2020-11-02"
   date_end = "2020-12-09"
   description = """
-  Course [VVRN30](http://www.tvrl.lth.se/utbildning/courses/vvrn30/).
+  Course [VVRN30](https://kurser.lth.se/kursplaner/17_18-en/VVRN30.pdf).
   A total of 4 lectures about Waves ([L](http://homepages.cae.wisc.edu/~chinwu/Coastal_Java/)inear Wave Theory, generation, transformation, statistics..).
   Course coordinator: Prof. Hans Hanson
   """
